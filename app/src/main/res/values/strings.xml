@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DZ-8-2</string>
+    <string name="policy">Policy</string>
+    <string name="product_category">Product Category</string>
+    <string name="origin_country">Origin Country</string>
+    <string name="band">Band</string>
+    <string name="finish_all_activity">Finish all activity</string>
+    <string name="finish_all_activiti">Finish all Activity</string>
+    <string name="result">Result</string>
+</resources>
